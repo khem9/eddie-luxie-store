@@ -1,0 +1,38 @@
+*{
+    background-color: antiquewhite;
+}
+
+.head{
+     background-color: antiquewhite;
+     text-align: center;
+
+}
+
+   
+footer {
+clear: both;
+text-align: right;
+  color: midnightblue;
+} 
+
+nav {
+  background-color: black;
+  padding: 1em;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 2em;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li a {
+  color: rgb(184, 58, 58);
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+  text-decoration: underline;
+}
